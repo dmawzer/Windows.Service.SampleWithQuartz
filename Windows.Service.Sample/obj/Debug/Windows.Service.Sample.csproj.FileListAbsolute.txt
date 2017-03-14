@@ -1,0 +1,11 @@
+N:\Projects\Projects.My\Windows.Service.Sample\Windows.Service.Sample\bin\Debug\Windows.Service.Sample.exe
+N:\Projects\Projects.My\Windows.Service.Sample\Windows.Service.Sample\bin\Debug\Windows.Service.Sample.pdb
+N:\Projects\Projects.My\Windows.Service.Sample\Windows.Service.Sample\obj\Debug\ResolveAssemblyReference.cache
+N:\Projects\Projects.My\Windows.Service.Sample\Windows.Service.Sample\obj\Debug\Windows.Service.Sample.exe
+N:\Projects\Projects.My\Windows.Service.Sample\Windows.Service.Sample\obj\Debug\Windows.Service.Sample.pdb
+N:\Projects\Projects.My\Windows.Service.Sample\Windows.Service.Sample\obj\Debug\Windows.Service.Sample.ProjectInstaller.resources
+N:\Projects\Projects.My\Windows.Service.Sample\Windows.Service.Sample\obj\Debug\Windows.Service.Sample.csproj.GenerateResource.Cache
+N:\Projects\Projects.My\Windows.Service.Sample\Windows.Service.Sample\bin\Debug\Windows.Service.Sample.exe.config
+N:\Projects\Projects.My\Windows.Service.Sample\Windows.Service.Sample\bin\Debug\Quartz.dll
+N:\Projects\Projects.My\Windows.Service.Sample\Windows.Service.Sample\bin\Debug\Common.Logging.dll
+N:\Projects\Projects.My\Windows.Service.Sample\Windows.Service.Sample\bin\Debug\Quartz.xml
